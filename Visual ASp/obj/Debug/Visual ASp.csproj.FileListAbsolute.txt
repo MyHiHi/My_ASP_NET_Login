@@ -1,0 +1,6 @@
+F:\ASP NET\Visual ASp\Visual ASp\bin\Visual ASp.dll.config
+F:\ASP NET\Visual ASp\Visual ASp\bin\Visual ASp.dll
+F:\ASP NET\Visual ASp\Visual ASp\bin\Visual ASp.pdb
+F:\ASP NET\Visual ASp\Visual ASp\obj\Debug\Visual ASp.csprojResolveAssemblyReference.cache
+F:\ASP NET\Visual ASp\Visual ASp\obj\Debug\Visual ASp.dll
+F:\ASP NET\Visual ASp\Visual ASp\obj\Debug\Visual ASp.pdb
